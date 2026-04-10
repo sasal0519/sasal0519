@@ -4,8 +4,9 @@
 <!-- ============================================================ -->
 
 <div align="center">
+           
+<img width="4128" height="1024" alt="Design sem nome (2)" src="https://github.com/user-attachments/assets/54e60226-e9e9-4242-9f1f-9fcda62e529f" />
 
-<img width="4128" height="1024" alt="Gemini_Generated_Image_pyldalpyldalpyld" src="https://github.com/user-attachments/assets/0bc823bf-6e20-4de2-8311-2d30b2a10852" />
 
 
 ```
