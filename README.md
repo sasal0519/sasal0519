@@ -121,12 +121,7 @@ LINK    : github.com/sasal0519/proeng
 <div align="center">
 
 ```
-     .~.
-     /V\      open source,
-    // \\     porque software
-   /(   )\    nao deveria ser
-    ^`~'^      uma caixa preta.
-```
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sasal0519&color=FFD43B&style=for-the-badge&label=VISITAS)
 
