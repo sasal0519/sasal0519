@@ -123,6 +123,3 @@ LINK    : github.com/sasal0519/proeng
 ```
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sasal0519&color=FFD43B&style=for-the-badge&label=VISITAS)
-
-</div>
