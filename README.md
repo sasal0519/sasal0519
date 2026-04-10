@@ -15,7 +15,7 @@
 ```
 
 ```
-sasal0519@github:~$ whoami
+           sasal0519@github:
 > Engenheiro Quimico em Formacao | UFRN
 > Entusiasta de Tecnologias Open Source
 > Python . LaTeX . Lua . Linux
