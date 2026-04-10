@@ -1,3 +1,7 @@
+<!-- ============================================================ -->
+<!--   NEO BRUTALIST README — github.com/sasal0519              -->
+<!--   Substitua os placeholders [BRACKETS] com seus dados      -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -14,7 +18,7 @@
 sasal0519@github:~$ whoami
 > Engenheiro Quimico em Formacao | UFRN
 > Entusiasta de Tecnologias Open Source
-> Python · LaTeX · Lua · Linux
+> Python . LaTeX . Lua . Linux
 ```
 
 </div>
@@ -37,11 +41,11 @@ sasal0519@github:~$ whoami
 
 > *tux says: use linux or go home.*
 
-Engenheiro Quimico em formacao pela **UFRN**, assistente administrativo na
-Prefeitura Municipal de Sao Jose de Mipibu, entusiasta de sistemas
+Engenheiro Químico em formação pela **UFRN**, assistente administrativo na
+Prefeitura Municipal de São José de Mipibu, entusiasta de sistemas
 baseados em Linux e ferramentas open source.
 
-Se existe um problema repetitivo, existe um script esperando para resolve-lo.
+Se existe um problema repetitivo, existe um script esperando para resolvê-lo.
 
 ---
 
@@ -51,12 +55,12 @@ Se existe um problema repetitivo, existe um script esperando para resolve-lo.
 +---------------------------+----------+
 | TECNOLOGIA                | NIVEL    |
 +---------------------------+----------+
-| Python                    | ######## |
-| LaTeX                     | #######. |
-| Lua                       | ######.. |
-| Linux (Arch/Debian)       | ######## |
-| Shell Script / Bash       | #######. |
-| Git                       | ######.. |
+| Python                    | #####    |
+| LaTeX                     | #####.   |
+| Lua                       | ####..   |
+| Linux (Arch/Debian)       | ######   |
+| Shell Script / Bash       | ###.     |
+| Git                       | #####..  |
 +---------------------------+----------+
 ```
 
@@ -79,14 +83,43 @@ Se existe um problema repetitivo, existe um script esperando para resolve-lo.
 
 ---
 
-## [PROJETOS]
+## [PROJETO EM DESTAQUE]
 
-### `[Proeng]` 
 ```
-STACK   : Python · Shell
-SOBRE   : [O que automatiza / resolve em 1 linha]
-LINK    : github.com/sasal0519/[PROJETO-1]
+  ____            _____
+ |  _ \ _ __ ___|  ___|_ __   __ _
+ | |_) | '__/ _ \ |_  | '_ \ / _` |
+ |  __/| | | (_) |  _| | | | | (_| |
+ |_|   |_|  \___/_|   |_| |_|\__, |
+                               |___/
 ```
+
+### `ProEng` — Plataforma de Engenharia Industrial & Gestão de Projetos
+
+```
+STACK   : Python . PyQt5 . GPL-3.0
+SOBRE   : Suite desktop open source com 11 modulos de modelagem
+          industrial, design neo-brutalista e 14 temas dinamicos.
+LINK    : github.com/sasal0519/proeng
+```
+
+```
++---------------------+------------------------------------------+
+| MODULO              | DESCRICAO                                |
++---------------------+------------------------------------------+
+| BPMN Modeler        | Modelagem de processos com swimlanes     |
+| Flowsheet / P&ID    | Diagramas de processo industrial         |
+| Gantt               | Cronogramas com dependencias             |
+| Kanban / SCRUM      | Gestao agil de tarefas                   |
+| Ishikawa            | Analise de causa raiz (espinha de peixe) |
+| 5W2H                | Resolucao estruturada de problemas       |
+| PDCA                | Ciclos de melhoria continua              |
+| Script Engine       | Execucao de Python embutido              |
++---------------------+------------------------------------------+
+```
+
+> Software industrial nao deveria ser uma caixa preta proprietaria.
+> ProEng existe porque engenheiros merecem controle sobre suas ferramentas.
 
 ---
 
@@ -107,11 +140,12 @@ LINK    : github.com/sasal0519/[PROJETO-1]
 ```
 +------------------------------------------+
 |  Salomao Felix                           |
-|  Sao Jose de Mipibu · RN · Brasil        |
+|  Sao Jose de Mipibu . RN . Brasil        |
 |  UFRN - Engenharia Quimica               |
 +------------------------------------------+
 |  linkedin : linkedin.com/in/[SEU-SLUG]   |
 |  github   : github.com/sasal0519         |
+|  email    : [SEU-EMAIL]                  |
 +------------------------------------------+
 ```
 
@@ -119,20 +153,13 @@ LINK    : github.com/sasal0519/[PROJETO-1]
 
 <div align="center">
 
-
-
-                                                                 #####
-                                                                #######
-                   #                                            ##O#O##
-  ######          ###                                           #VVVVV#
-    ##             #                                          ##  VVV  ##
-    ##         ###    ### ####   ###    ###  ##### #####     #          ##
-    ##        #  ##    ###    ##  ##     ##    ##   ##      #            ##
-    ##       #   ##    ##     ##  ##     ##      ###        #            ###
-    ##          ###    ##     ##  ##     ##      ###       QQ#           ##Q
-    ##       # ###     ##     ##  ##     ##     ## ##    QQQQQQ#       #QQQQQQ
-    ##      ## ### #   ##     ##  ###   ###    ##   ##   QQQQQQQ#     #QQQQQQQ
-  ############  ###   ####   ####   #### ### ##### #####   QQQQQ#######QQQQQ
+```
+     .~.
+     /V\      open source,
+    // \\     porque software
+   /(   )\    nao deveria ser
+    ^`~'^      uma caixa preta.
+```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sasal0519&color=FFD43B&style=for-the-badge&label=VISITAS)
 
