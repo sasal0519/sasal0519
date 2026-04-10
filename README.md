@@ -24,9 +24,6 @@ sasal0519@github:~$ whoami
 </div>
 
 ---
-
-## [SOBRE]
-
 ```
     ,           ,
    /             \
@@ -48,9 +45,6 @@ baseados em Linux e ferramentas open source.
 Se existe um problema repetitivo, existe um script esperando para resolvê-lo.
 
 ---
-
-## [STACK]
-
 ```
 +---------------------------+----------+
 | TECNOLOGIA                | NIVEL    |
@@ -71,7 +65,6 @@ Se existe um problema repetitivo, existe um script esperando para resolvê-lo.
 
 ---
 
-## [FOCO ATUAL]
 
 ```diff
 + Automacao de processos administrativos com Python
@@ -80,11 +73,7 @@ Se existe um problema repetitivo, existe um script esperando para resolvê-lo.
 + Contribuicoes em projetos open source
 - Dependencia de ferramentas proprietarias (eliminando)
 ```
-
 ---
-
-## [PROJETO EM DESTAQUE]
-
 ```
   ____            _____
  |  _ \ _ __ ___|  ___|_ __   __ _
@@ -93,9 +82,6 @@ Se existe um problema repetitivo, existe um script esperando para resolvê-lo.
  |_|   |_|  \___/_|   |_| |_|\__, |
                                |___/
 ```
-
-### `ProEng` — Plataforma de Engenharia Industrial & Gestão de Projetos
-
 ```
 STACK   : Python . PyQt5 . GPL-3.0
 SOBRE   : Suite desktop open source com 11 modulos de modelagem
@@ -117,36 +103,17 @@ LINK    : github.com/sasal0519/proeng
 | Script Engine       | Execucao de Python embutido              |
 +---------------------+------------------------------------------+
 ```
-
-> Software industrial nao deveria ser uma caixa preta proprietaria.
-> ProEng existe porque engenheiros merecem controle sobre suas ferramentas.
-
 ---
-
-## [STATS]
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasal0519&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FFD43B&icon_color=FFD43B&text_color=ffffff&border_color=FFD43B&border_radius=0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasal0519&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FFD43B&text_color=ffffff&border_color=FFD43B&border_radius=0)
-
-</div>
-
----
-
-## [CONTATO]
-
 ```
-+------------------------------------------+
-|  Salomao Felix                           |
-|  Sao Jose de Mipibu . RN . Brasil        |
-|  UFRN - Engenharia Quimica               |
-+------------------------------------------+
-|  linkedin : linkedin.com/in/[SEU-SLUG]   |
-|  github   : github.com/sasal0519         |
-|  email    : [SEU-EMAIL]                  |
-+------------------------------------------+
++--------------------------------------------------------+
+|  Salomão Félix                                         |
+|  Sao Jose de Mipibu . RN . Brasil                      |
+|  UFRN - Engenharia Quimica                             |
++--------------------------------------------------------+
+|  linkedin : www.linkedin.com/in/salomão-félix-b4b492191|
+|  github   : github.com/sasal0519                       |
+|                                                        |
++--------------------------------------------------------+
 ```
 
 ---
