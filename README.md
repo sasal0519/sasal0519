@@ -1,36 +1,23 @@
 <!-- ============================================================ -->
-<!--   NEO BRUTALIST README — github.com/sasal0519              -->
-<!--   Substitua os placeholders [BRACKETS] com seus dados      -->
+<!--   github.com/sasal0519                                       -->
 <!-- ============================================================ -->
 
 <div align="center">
-           
-<img width="4128" height="1024" alt="Design sem nome (2)" src="https://github.com/user-attachments/assets/54e60226-e9e9-4242-9f1f-9fcda62e529f" />
-
-
-
-
-
-
+<img width="4128" height="1024" alt="banner" src="https://github.com/user-attachments/assets/54e60226-e9e9-4242-9f1f-9fcda62e529f" />
 </div>
 
 ---
+
 ```
-    ,           ,
-   /             \
-  ((__-^^-,-^^-__))
-   `-_---' `---_-'
-    `--|o` 'o|--'
-       \  `  /
-        ): :(
-        :o_o:
-        "-"
+  <img width="535" height="523" alt="image" src="https://github.com/user-attachments/assets/5a4a3173-911f-4ba5-a932-83a45f1b0bae" />
+
 ```
 
-> *tux says: use linux or go home.*
-
+> *engenheiro químico que escreve código.*
+> *automatizo o que pode ser automatizado. documento o que precisa durar.*
 
 ---
+
 ```
 +---------------------------+----------+
 | TECNOLOGIA                | NIVEL    |
@@ -51,15 +38,16 @@
 
 ---
 
-
 ```diff
-+ Automacao de processos administrativos com Python
-+ Documentacao tecnica avancada em LaTeX
-+ Aprofundamento em scripting Lua / Neovim
-+ Contribuicoes em projetos open source
-- Dependencia de ferramentas proprietarias (eliminando)
++ automacao de processos administrativos com Python
++ documentacao tecnica profissional em LaTeX
++ scripting Lua integrado ao Neovim
++ desenvolvimento open source (GPL-3.0)
+- dependencia de ferramentas proprietarias (em eliminacao)
 ```
+
 ---
+
 ```
   ____            _____
  |  _ \ _ __ ___|  ___|_ __   __ _
@@ -68,10 +56,12 @@
  |_|   |_|  \___/_|   |_| |_|\__, |
                                |___/
 ```
+
 ```
 STACK   : Python . PyQt5 . GPL-3.0
-SOBRE   : Suite desktop open source com 11 modulos de modelagem
-          industrial, design neo-brutalista e 14 temas dinamicos.
+SOBRE   : Suite desktop open source para engenharia de processos.
+          11 modulos . design neo-brutalista . 14 temas dinamicos.
+          construido do zero. sem dependencias proprietarias.
 LINK    : github.com/sasal0519/proeng
 ```
 
@@ -79,30 +69,26 @@ LINK    : github.com/sasal0519/proeng
 +---------------------+------------------------------------------+
 | MODULO              | DESCRICAO                                |
 +---------------------+------------------------------------------+
-| BPMN Modeler        | Modelagem de processos com swimlanes     |
-| Flowsheet / P&ID    | Diagramas de processo industrial         |
-| Gantt               | Cronogramas com dependencias             |
-| Kanban / SCRUM      | Gestao agil de tarefas                   |
-| Ishikawa            | Analise de causa raiz (espinha de peixe) |
-| 5W2H                | Resolucao estruturada de problemas       |
-| PDCA                | Ciclos de melhoria continua              |
-| Script Engine       | Execucao de Python embutido              |
+| BPMN Modeler        | modelagem de processos com swimlanes     |
+| Flowsheet / P&ID    | diagramas de processo industrial         |
+| Gantt               | cronogramas com dependencias             |
+| Kanban / SCRUM      | gestao agil de tarefas                   |
+| Ishikawa            | analise de causa raiz                    |
+| 5W2H                | resolucao estruturada de problemas       |
+| PDCA                | ciclos de melhoria continua              |
+| Script Engine       | Python embutido para automacao           |
 +---------------------+------------------------------------------+
 ```
+
 ---
+
 ```
 +--------------------------------------------------------+
 |  Salomão Félix                                         |
-|  Sao Jose de Mipibu . RN . Brasil                      |
-|  UFRN - Engenharia Quimica                             |
+|  Engenharia Química · UFRN · RN · Brasil               |
 +--------------------------------------------------------+
-|  linkedin : www.linkedin.com/in/salomão-félix-b4b492191|
+|  linkedin : linkedin.com/in/salomão-félix-b4b492191    |
 |  github   : github.com/sasal0519                       |
-|                                                        |
+|  email    : [seu email aqui]                           |
 +--------------------------------------------------------+
 ```
-
----
-
-
-
