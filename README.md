@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-<img width="296" height="150" alt="salomao_felix_ascii_banner_v2" src="https://github.com/user-attachments/assets/e5529661-31b5-4a0a-b49a-e5aeefc7797b" />
+<img width="1916" height="821" alt="ChatGPT Image 24 de abr  de 2026, 20_13_55" src="https://github.com/user-attachments/assets/eac21c79-2af2-4a0e-8e34-0d307a4f48c7" />
 
 
 </div>
@@ -193,4 +193,4 @@ estatísticas
 |  aberto a: estagio · trainee · remoto · open source    |
 +--------------------------------------------------------+
 ```
-<img width="1916" height="821" alt="ChatGPT Image 24 de abr  de 2026, 20_13_55" src="https://github.com/user-attachments/assets/eac21c79-2af2-4a0e-8e34-0d307a4f48c7" />
+
