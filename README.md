@@ -193,3 +193,4 @@ estatísticas
 |  aberto a: estagio · trainee · remoto · open source    |
 +--------------------------------------------------------+
 ```
+<img width="1916" height="821" alt="ChatGPT Image 24 de abr  de 2026, 20_13_55" src="https://github.com/user-attachments/assets/eac21c79-2af2-4a0e-8e34-0d307a4f48c7" />
