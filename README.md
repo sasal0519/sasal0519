@@ -11,7 +11,6 @@
 <img align="right" width="260" height="260" alt="foto" src="https://github.com/user-attachments/assets/0e0331af-f9dd-4f3d-8f9c-03ebaafa7b93" />
 
 ```
-quem sou
 ────────────────────────────────────────
 engenheiro químico em formação (UFRN)
 que aprendeu a escrever código por necessidade
