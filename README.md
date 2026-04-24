@@ -3,7 +3,8 @@
 <!-- ============================================================ -->
 
 <div align="center">
-<img width="4128" height="1024" alt="banner" src="https://github.com/user-attachments/assets/54e60226-e9e9-4242-9f1f-9fcda62e529f" />
+<img width="2048" height="508" alt="Design sem nome" src="https://github.com/user-attachments/assets/1b377be8-1582-41fb-9581-f390fa838f98" />
+
 </div>
 
 ---
