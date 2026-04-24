@@ -8,8 +8,10 @@
 
 ---
 
+<img width="260" height="260" alt="image-invert (1)" src="https://github.com/user-attachments/assets/0e0331af-f9dd-4f3d-8f9c-03ebaafa7b93" />
 
-<img width="736" height="736" alt="104ae9f93d3d517e5e1a40a362d80638" src="https://github.com/user-attachments/assets/7624da5e-b7b4-4df9-a833-9a1f7269c37f" />
+
+
 
 
 ```
