@@ -9,12 +9,8 @@
 
 
 
-```
-           
-> Engenheiro Quimico em Formacao | UFRN
-> Entusiasta de Tecnologias Open Source
-> Python . LaTeX . Lua . Linux
-```
+
+
 
 </div>
 
