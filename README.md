@@ -33,11 +33,6 @@
 
 > *tux says: use linux or go home.*
 
-Engenheiro Químico em formação pela **UFRN**, assistente administrativo na
-Prefeitura Municipal de São José de Mipibu, entusiasta de sistemas
-baseados em Linux e ferramentas open source.
-
-Se existe um problema repetitivo, existe um script esperando para resolvê-lo.
 
 ---
 ```
