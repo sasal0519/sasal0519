@@ -8,9 +8,10 @@
 
 ---
 
-```
-  <img width="535" height="523" alt="image" src="https://github.com/user-attachments/assets/5a4a3173-911f-4ba5-a932-83a45f1b0bae" />
+<img width="535" height="523" alt="image" src="https://github.com/user-attachments/assets/5f8bd942-6a76-44be-977f-cb280037a52a" />
 
+```
+ 
 ```
 
 > *engenheiro químico que escreve código.*
