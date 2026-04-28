@@ -172,26 +172,39 @@ estatísticas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasal0519&show_icons=true&theme=dark&hide_border=true&title_color=FFD43B&icon_color=FFD43B&text_color=ffffff&bg_color=0d0d0d)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasal0519&layout=compact&theme=dark&hide_border=true&title_color=FFD43B&text_color=ffffff&bg_color=0d0d0d)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sasal0519&theme=dark&hide_border=true&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&background=0d0d0d)
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sasal0519&show_icons=true&theme=dark&hide_border=true&title_color=FFD43B&icon_color=FFD43B&text_color=ffffff&bg_color=0d0d0d&cache_seconds=21600" />
+  <img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasal0519&layout=compact&theme=dark&hide_border=true&title_color=FFD43B&text_color=ffffff&bg_color=0d0d0d&cache_seconds=21600" />
+  <br>
+  <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sasal0519&theme=dark&hide_border=true&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&background=0d0d0d" />
 
 </div>
 
 ---
 
-```
-+--------------------------------------------------------+
-|  Salomão Félix                                         |
-|  Engenharia Química · UFRN · RN · Brasil               |
-+--------------------------------------------------------+
-|  linkedin : linkedin.com/in/salomão-félix-b4b492191    |
-|  github   : github.com/sasal0519                       |
-|  email    : salomaostenioferreira@gmail.com            |
-+--------------------------------------------------------+
-|  aberto a: estagio · trainee · remoto · open source    |
-+--------------------------------------------------------+
-```
+<table align="center">
+  <tr>
+    <td><strong>Nome</strong></td>
+    <td>Salomão Félix</td>
+  </tr>
+  <tr>
+    <td><strong>Formação</strong></td>
+    <td>Engenharia Química · UFRN · RN · Brasil</td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/salom%C3%A3o-f%C3%A9lix-b4b492191/">linkedin.com/in/salomão-félix-b4b492191</a></td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td><a href="https://github.com/sasal0519">github.com/sasal0519</a></td>
+  </tr>
+  <tr>
+    <td><strong>E-mail</strong></td>
+    <td><a href="mailto:salomaostenioferreira@gmail.com">salomaostenioferreira@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Aberto a</strong></td>
+    <td>estágio · trainee · remoto · open source</td>
+  </tr>
+</table>
 
